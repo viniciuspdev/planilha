@@ -1,0 +1,7 @@
+POST https://3000-viniciuspdev-planilha-okxa4juxuks.ws-us63.gitpod.io/
+Content-Type: "application/json"
+
+{
+    "valor: 20"
+}
+###
